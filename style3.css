@@ -1,0 +1,19 @@
+.Gradient a {
+	text-decoration: none;
+}
+.Gradient ul li {
+	background-image: url("finish.jpg");
+	background-repeat: no repeat;
+}
+body {
+	background-image: url("images.jpg");
+	background-position: -100px -100px;
+	background-repeat: repeat-x;
+	height: 100%;
+}
+ul {
+	list-style: none;
+}
+.Gradient ul li img {
+	width: 20px;
+}
